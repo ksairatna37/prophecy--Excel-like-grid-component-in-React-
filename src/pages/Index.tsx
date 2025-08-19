@@ -6,7 +6,7 @@ import Clipboardsection from "../Components/Clipboardsection";
 import "./index.css";
 import Alignmentsection from "../Components/Alignmentsection";
 import Notavailable from "../Components/Notavailable";
-import ExcelGrid from "../Components/Excelgrid";
+import ExcelGrid from "../Components/ExcelGrid";
 
 const Index = () => {
 
