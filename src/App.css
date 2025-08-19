@@ -1,0 +1,8 @@
+.app{
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  font-family: "Outfit", sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
