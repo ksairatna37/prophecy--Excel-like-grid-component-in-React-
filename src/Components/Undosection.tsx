@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import { Component } from 'react'
 import {RotateCcw, RotateCw } from "lucide-react";
 
 export class Undosection extends Component {

@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import { Component } from 'react'
 import { FileText, Pencil, Eye, PlusSquare, Type, Table, HelpCircle,UserCircle } from "lucide-react";
 
 export class Mainnav extends Component {

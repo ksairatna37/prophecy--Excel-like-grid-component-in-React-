@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import { Component } from 'react'
 import { Clipboard, Scissors, Copy, PaintbrushVertical } from "lucide-react";
 
 export class Clipboardsection extends Component {
